@@ -546,6 +546,11 @@ Header Area Style
   margin: 0;
 }
 
+.top-header .header-right-content .flag-area li a,.top-header .header-right-content .flag-area li i{
+  color: white !important;
+}
+
+
 .top-header .header-right-content .flag-area .flag-item-top {
   position: relative;
 }
